@@ -6,23 +6,23 @@
 
 I code. That's pretty much it. 
 
-Best way to pass the time while everything is in chaos
+Best way to pass the time while everything else is in chaos
 
 *~please help me i'm going mad~*
 
 Anyways, most projects you'll see here are mostly in Python and "Windows Oriented" 
 
-(*don't ask me what that means because idk what it means either*)
+(*please don't ask me what that means because I don't either*)
 
 You'll find detailed explanations of my projects on my website
 
 https://nokodaaddictions.github.io
 
 ## Current Projects
-- SmartRC
-- SmartRC - Builder
-- TripleP Bank
-- My Website
+- SmartRC (https://github.com/NoKodaAddictions/SmartRC)
+- SmartRC - Builder (https://github.com/NoKodaAddictions/SmartRC-Builder)
+- TripleP Bank (https://github.com/Spider-ManandIronManaremyinspiration/TripleP-Bank)
+- My Website (https://github.com/NoKodaAddictions/NoKodaAddictions.github.io)
 
 
 ## Questions?
