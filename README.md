@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=11xXk5fVuL5aLEnecYSsUqLiAwwh_G0JR" width="220" height="200">
+  <img src="NK Logo v3.png" width="220" height="200">
   <h2 align="center">Hey! I'm NoKodaAddictions!</h2>
   <h6 align="center">Welcome To My GitHub Profile</h6>
 </p>
