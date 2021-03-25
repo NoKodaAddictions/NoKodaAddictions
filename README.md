@@ -18,6 +18,13 @@ You'll find detailed explanations of my projects on my website
 
 https://nokodaaddictions.github.io
 
+## Current Projects
+- SmartRC
+- SmartRC - Builder
+- TripleP Bank
+- My Website
+
+
 ## Questions?
 
 - DM Me on Discord (NoKoda#7289)
