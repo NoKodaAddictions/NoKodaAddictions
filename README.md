@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="NoKoda.png" width="220" height="200">
+  <img src="NoKoda.png" width="220" height="220">
   <h2 align="center">Hey! I'm NoKodaAddictions!</h2>
   <h6 align="center">Welcome To My GitHub Profile</h6>
 </p>
