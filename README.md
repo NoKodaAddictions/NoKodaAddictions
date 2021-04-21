@@ -24,8 +24,6 @@ https://nokodaaddictions.github.io
 ![Stats](https://github-readme-stats.vercel.app/api?username=nokodaaddictions&text_color=b5a642&bg_color=12161a&hide_border=true&title_color=b5a642)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nokodaaddictions&text_color=b5a642&bg_color=12161a&hide_border=true&title_color=b5a642)
 
-## Update Billboard
-
-Project update descriptions and explanations in UpdateGallery
+## Update Gallery
 
 https://nokodaaddictions.github.io/UpdateGallery/
