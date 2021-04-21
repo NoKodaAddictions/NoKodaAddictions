@@ -25,8 +25,7 @@ https://nokodaaddictions.github.io
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nokodaaddictions&text_color=b5a642&bg_color=12161a&hide_border=true&title_color=b5a642)
 
 ## Update Billboard
-***This may be replaced by a github workflow.***
 
-SmartRC - Builder Updated To: 0.2.3.2
+Project update descriptions and explanations in UpdateGallery
 
-NoKodaAddictions.github.io Updated To: 1.6.4
+https://nokodaaddictions.github.io/UpdateGallery/
