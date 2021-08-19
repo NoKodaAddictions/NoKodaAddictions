@@ -29,4 +29,4 @@ https://nokodaaddictions.github.io
 
 ## Update Gallery
 
-https://nokodaaddictions.github.io/UpdateGallery/
+https://nokodaaddictions.github.io/updategallery/gallery.html
