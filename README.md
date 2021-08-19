@@ -13,7 +13,6 @@ https://nokodaaddictions.github.io
 ## Current Projects
 - SmartRC (https://github.com/NoKodaAddictions/SmartRC)
 - SmartRC - Builder (https://github.com/NoKodaAddictions/SmartRC-Builder)
-- TripleP Bank (https://github.com/Spider-ManandIronManaremyinspiration/TripleP-Bank)
 - My Website (https://github.com/NoKodaAddictions/NoKodaAddictions.github.io)
 
 ## Questions?
