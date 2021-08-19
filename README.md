@@ -6,9 +6,9 @@
 
 Most of my projects use python and html. Others you may see are experimental/learning projects.
 
-Some being the android apps (kotlin) and others being C++ console apps.
+Some being android apps (kotlin) and others being C++ console apps.
 
-At the moment, updates for main projects will be coming out slower and sporadically. Please wait humbly.
+At the moment, updates for main projects will be coming out slower. Please wait humbly.
 
 In the meantime take a look at some projects on my website!
 
