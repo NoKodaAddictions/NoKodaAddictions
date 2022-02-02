@@ -1,3 +1,1 @@
-politics is better...
-
-I like yelling at the tv.
+Main source of code projects: Northwest Notes
